@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T12:55:25.500Z",
+  "generated_at": "2026-10-27T13:16:42.017Z",
   "count": 18,
   "categories": [
     {
@@ -64,7 +64,7 @@
       "description": "Review a contract with a checklist to find vague, one-sided or missing clauses; not legal advice.",
       "description_fa": "مرور قرارداد با یک چک‌لیست برای پیدا کردن بندهای مبهم، یک‌طرفه یا جاافتاده؛ مشاورهٔ حقوقی نیست",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -99,7 +99,7 @@
       "description": "Write a polite, clear reply to a customer email, from a simple question to a complaint, with a next step.",
       "description_fa": "نوشتن پاسخ مؤدبانه و روشن به ایمیل مشتری، چه پرسش ساده باشد چه شکایت، با لحن درست و قدم بعدی مشخص",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -134,7 +134,7 @@
       "description": "Build and explain Excel and Google Sheets formulas, pivot tables and fix formula errors.",
       "description_fa": "ساختن و توضیح فرمول‌های اکسل و گوگل‌شیت، جدول خلاصه (Pivot) و رفع خطاهای فرمول",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -169,7 +169,7 @@
       "description": "Explain code step by step in plain language, spot likely bugs and suggest improvements.",
       "description_fa": "توضیح قدم‌به‌قدم کد به زبان ساده، پیدا کردن اشکال‌های محتمل و پیشنهاد بهتر کردن آن",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -204,7 +204,7 @@
       "description": "Natural translation between Persian and other languages that keeps tone, idioms and format.",
       "description_fa": "ترجمهٔ روان و طبیعی میان فارسی و زبان‌های دیگر با حفظ لحن، اصطلاح‌ها و قالب متن",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -238,7 +238,7 @@
       "description": "Rewrite Persian text between formal, business and friendly tones without changing the meaning.",
       "description_fa": "تبدیل متن فارسی میان لحن رسمی، کاری و خودمانی بدون عوض شدن معنا، با نگه‌داشتن نیم‌فاصله و نشانه‌گذاری درست",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -273,7 +273,7 @@
       "description": "Write a formal Persian official letter with the right structure, a polite tone and no spelling mistakes.",
       "description_fa": "نوشتن نامهٔ اداری رسمی فارسی با ساختار درست، لحن مؤدبانه و بدون غلط نگارشی",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -308,7 +308,7 @@
       "description": "Write a clear, inviting job posting with duties, requirements and benefits, free of cliches and discrimination.",
       "description_fa": "نوشتن آگهی استخدام روشن و جذاب با شرح وظایف، شرایط لازم و مزایا، بدون عبارت‌های کلیشه‌ای و تبعیض‌آمیز",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -343,7 +343,7 @@
       "description": "Layered summary of a long report, article or file: main points, numbers and actions.",
       "description_fa": "خلاصهٔ لایه‌لایه از گزارش، مقاله، کتاب یا فایل بلند؛ نکته‌های اصلی، عددها و اقدام‌ها",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -378,7 +378,7 @@
       "description": "Turn meeting notes or audio text into tidy minutes with decisions, owners and deadlines.",
       "description_fa": "تبدیل یادداشت یا صدای جلسه به صورت‌جلسهٔ مرتب با تصمیم‌ها، مسئول هر کار و مهلت",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -413,7 +413,7 @@
       "description": "Build a one-month content calendar for social media or a blog, with content pillars and daily ideas.",
       "description_fa": "ساختن تقویم محتوای یک ماهه برای شبکه‌های اجتماعی یا وبلاگ، با ستون‌های محتوایی، ایده‌های روزانه و تعطیلات",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -448,7 +448,7 @@
       "description": "Write or improve a Persian or English resume with measurable achievements tailored to a job ad.",
       "description_fa": "نوشتن یا بهبود رزومهٔ فارسی یا انگلیسی با دستاوردهای قابل اندازه‌گیری و متناسب با آگهی شغلی",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -483,7 +483,7 @@
       "description": "Write an Instagram, Telegram or LinkedIn post with a hook, short body, call to action and hashtags.",
       "description_fa": "نوشتن پست اینستاگرام، تلگرام یا لینکدین با قلاب آغاز، متن کوتاه، دعوت به اقدام و هشتگ مناسب",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -519,7 +519,7 @@
       "description": "A realistic weekly study plan for an exam, a language or a new skill, with review and practice tests.",
       "description_fa": "برنامهٔ مطالعهٔ هفتگی واقع‌بینانه برای کنکور، امتحان، زبان یا یادگیری یک مهارت، با مرور و آزمون",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -554,7 +554,7 @@
       "description": "SWOT analysis of a business, product or decision, with conclusions and prioritized actions.",
       "description_fa": "تحلیل نقاط قوت، ضعف، فرصت و تهدید برای یک کسب‌وکار، محصول یا تصمیم، با نتیجه‌گیری و اولویت اقدام",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -589,7 +589,7 @@
       "description": "A day-by-day trip plan with route, sights, budget and packing list, inside or outside Iran.",
       "description_fa": "برنامهٔ سفر روزبه‌روز با مسیر، جاهای دیدنی، بودجه و فهرست وسایل، داخل یا خارج از ایران",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -624,7 +624,7 @@
       "description": "Turn the transcript of a meeting or call into a short summary with topics, decisions and open tasks.",
       "description_fa": "تبدیل متنِ پیاده‌شدهٔ صوت جلسه یا تماس به خلاصهٔ کوتاه با موضوع‌ها، تصمیم‌ها و کارهای باز",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
@@ -659,7 +659,7 @@
       "description": "Write a short, clear work email in Persian or English with a good subject, a specific ask and the right tone.",
       "description_fa": "نوشتن ایمیل کاری کوتاه و روشن به فارسی یا انگلیسی با موضوع مناسب، خواستهٔ مشخص و لحن درست",
       "publisher": {
-        "name": "NetArz",
+        "name": "Gisoo",
         "url": "https://gisoo.pro"
       },
       "categories": [
