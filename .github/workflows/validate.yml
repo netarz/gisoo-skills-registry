@@ -19,7 +19,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Validate skills (offline: frontmatter, meta schema, limits, file types, secrets, safety scan)
+      - name: "Validate skills (offline: frontmatter, meta schema, limits, file types, secrets, safety scan)"
         run: node scripts/validate.mjs
       - name: Index builds
         run: node scripts/build-index.mjs
