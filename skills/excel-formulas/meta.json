@@ -1,0 +1,26 @@
+{
+  "id": "excel-formulas",
+  "title": "Excel formulas and tables",
+  "title_fa": "فرمول و جدول اکسل",
+  "description": "Build and explain Excel and Google Sheets formulas, pivot tables and fix formula errors.",
+  "description_fa": "ساختن و توضیح فرمول‌های اکسل و گوگل‌شیت، جدول خلاصه (Pivot) و رفع خطاهای فرمول",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "data",
+    "productivity"
+  ],
+  "tags": [
+    "اکسل",
+    "گوگل‌شیت",
+    "فرمول",
+    "جدول"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

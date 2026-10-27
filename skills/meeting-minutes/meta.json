@@ -1,0 +1,26 @@
+{
+  "id": "meeting-minutes",
+  "title": "Meeting minutes",
+  "title_fa": "صورت‌جلسه",
+  "description": "Turn meeting notes or audio text into tidy minutes with decisions, owners and deadlines.",
+  "description_fa": "تبدیل یادداشت یا صدای جلسه به صورت‌جلسهٔ مرتب با تصمیم‌ها، مسئول هر کار و مهلت",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "tags": [
+    "جلسه",
+    "صورت‌جلسه",
+    "تصمیم",
+    "کار"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

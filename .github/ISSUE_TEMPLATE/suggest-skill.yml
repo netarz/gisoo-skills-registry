@@ -1,0 +1,42 @@
+name: "پیشنهاد مهارت"
+description: "مهارتی را برای افزودن به فروشگاه مهارت گیسو پیشنهاد دهید / Suggest a skill for the Gisoo skills store"
+title: "[skill] "
+labels: ["skill-suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "نام مهارت / Skill name"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: "این مهارت چه کاری را انجام می‌دهد؟ / What should it do?"
+      description: "یک یا دو جمله دربارهٔ کار و کاربر هدف / One or two sentences about the task and who it is for"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "مراحل پیشنهادی / Suggested steps"
+      description: "اگر پیش‌نویس دارید اینجا بگذارید؛ در غیر این صورت پول‌ریکوئست بدهید / Paste a draft if you have one, or open a pull request"
+    validations:
+      required: false
+  - type: dropdown
+    id: language
+    attributes:
+      label: "زبان مهارت / Language"
+      options:
+        - فارسی / Persian
+        - English
+        - هر دو / both
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: "قوانین / Rules"
+      options:
+        - label: "مهارت مشمول موارد ردشدنی در CONTRIBUTING نیست / It is not in the rejected categories in CONTRIBUTING"
+          required: true

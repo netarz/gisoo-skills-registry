@@ -1,0 +1,26 @@
+{
+  "id": "explain-code",
+  "title": "Explain code",
+  "title_fa": "توضیح کد",
+  "description": "Explain code step by step in plain language, spot likely bugs and suggest improvements.",
+  "description_fa": "توضیح قدم‌به‌قدم کد به زبان ساده، پیدا کردن اشکال‌های محتمل و پیشنهاد بهتر کردن آن",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "programming",
+    "education"
+  ],
+  "tags": [
+    "برنامه‌نویسی",
+    "کد",
+    "دیباگ",
+    "آموزش"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

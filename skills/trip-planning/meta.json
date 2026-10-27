@@ -1,0 +1,26 @@
+{
+  "id": "trip-planning",
+  "title": "Trip planning",
+  "title_fa": "برنامه‌ریزی سفر",
+  "description": "A day-by-day trip plan with route, sights, budget and packing list, inside or outside Iran.",
+  "description_fa": "برنامهٔ سفر روزبه‌روز با مسیر، جاهای دیدنی، بودجه و فهرست وسایل، داخل یا خارج از ایران",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "lifestyle",
+    "planning"
+  ],
+  "tags": [
+    "سفر",
+    "گردشگری",
+    "برنامه",
+    "بودجه"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

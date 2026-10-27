@@ -1,0 +1,25 @@
+{
+  "id": "fluent-translation",
+  "title": "Fluent translation",
+  "title_fa": "ترجمهٔ روان",
+  "description": "Natural translation between Persian and other languages that keeps tone, idioms and format.",
+  "description_fa": "ترجمهٔ روان و طبیعی میان فارسی و زبان‌های دیگر با حفظ لحن، اصطلاح‌ها و قالب متن",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "language",
+    "writing"
+  ],
+  "tags": [
+    "ترجمه",
+    "انگلیسی",
+    "زبان"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

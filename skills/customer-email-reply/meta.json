@@ -1,0 +1,26 @@
+{
+  "id": "customer-email-reply",
+  "title": "Customer email reply",
+  "title_fa": "پاسخ به ایمیل مشتری",
+  "description": "Write a polite, clear reply to a customer email, from a simple question to a complaint, with a next step.",
+  "description_fa": "نوشتن پاسخ مؤدبانه و روشن به ایمیل مشتری، چه پرسش ساده باشد چه شکایت، با لحن درست و قدم بعدی مشخص",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "business",
+    "support"
+  ],
+  "tags": [
+    "ایمیل",
+    "مشتری",
+    "پشتیبانی",
+    "شکایت"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

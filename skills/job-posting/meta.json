@@ -1,0 +1,26 @@
+{
+  "id": "job-posting",
+  "title": "Job posting",
+  "title_fa": "آگهی استخدام",
+  "description": "Write a clear, inviting job posting with duties, requirements and benefits, free of cliches and discrimination.",
+  "description_fa": "نوشتن آگهی استخدام روشن و جذاب با شرح وظایف، شرایط لازم و مزایا، بدون عبارت‌های کلیشه‌ای و تبعیض‌آمیز",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "business",
+    "career"
+  ],
+  "tags": [
+    "استخدام",
+    "آگهی",
+    "منابع‌انسانی",
+    "جذب"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

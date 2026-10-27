@@ -1,0 +1,26 @@
+{
+  "id": "formal-informal-rewrite",
+  "title": "Formal and informal rewrite",
+  "title_fa": "بازنویسی رسمی و خودمانی",
+  "description": "Rewrite Persian text between formal, business and friendly tones without changing the meaning.",
+  "description_fa": "تبدیل متن فارسی میان لحن رسمی، کاری و خودمانی بدون عوض شدن معنا، با نگه‌داشتن نیم‌فاصله و نشانه‌گذاری درست",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "writing",
+    "language"
+  ],
+  "tags": [
+    "بازنویسی",
+    "لحن",
+    "ویرایش",
+    "نگارش"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

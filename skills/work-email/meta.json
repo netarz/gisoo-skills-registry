@@ -1,0 +1,26 @@
+{
+  "id": "work-email",
+  "title": "Work email",
+  "title_fa": "ایمیل کاری",
+  "description": "Write a short, clear work email in Persian or English with a good subject, a specific ask and the right tone.",
+  "description_fa": "نوشتن ایمیل کاری کوتاه و روشن به فارسی یا انگلیسی با موضوع مناسب، خواستهٔ مشخص و لحن درست",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "business",
+    "writing"
+  ],
+  "tags": [
+    "ایمیل",
+    "کاری",
+    "مکاتبه",
+    "انگلیسی"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "contract-review",
+  "title": "Contract review checklist",
+  "title_fa": "بررسی قرارداد (چک‌لیست)",
+  "description": "Review a contract with a checklist to find vague, one-sided or missing clauses; not legal advice.",
+  "description_fa": "مرور قرارداد با یک چک‌لیست برای پیدا کردن بندهای مبهم، یک‌طرفه یا جاافتاده؛ مشاورهٔ حقوقی نیست",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "business",
+    "checklist"
+  ],
+  "tags": [
+    "قرارداد",
+    "حقوقی",
+    "چک‌لیست",
+    "امضا"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

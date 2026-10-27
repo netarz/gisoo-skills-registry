@@ -1,0 +1,26 @@
+{
+  "id": "resume",
+  "title": "Resume",
+  "title_fa": "رزومه",
+  "description": "Write or improve a Persian or English resume with measurable achievements tailored to a job ad.",
+  "description_fa": "نوشتن یا بهبود رزومهٔ فارسی یا انگلیسی با دستاوردهای قابل اندازه‌گیری و متناسب با آگهی شغلی",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "career",
+    "writing"
+  ],
+  "tags": [
+    "رزومه",
+    "شغل",
+    "سی‌وی",
+    "استخدام"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

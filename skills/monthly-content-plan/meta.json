@@ -1,0 +1,26 @@
+{
+  "id": "monthly-content-plan",
+  "title": "Monthly content plan",
+  "title_fa": "برنامهٔ محتوای ماهانه",
+  "description": "Build a one-month content calendar for social media or a blog, with content pillars and daily ideas.",
+  "description_fa": "ساختن تقویم محتوای یک ماهه برای شبکه‌های اجتماعی یا وبلاگ، با ستون‌های محتوایی، ایده‌های روزانه و تعطیلات",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "marketing",
+    "planning"
+  ],
+  "tags": [
+    "محتوا",
+    "تقویم",
+    "شبکه‌های‌اجتماعی",
+    "بازاریابی"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

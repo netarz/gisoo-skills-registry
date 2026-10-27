@@ -1,0 +1,27 @@
+{
+  "id": "social-post",
+  "title": "Social media post",
+  "title_fa": "پست شبکهٔ اجتماعی",
+  "description": "Write an Instagram, Telegram or LinkedIn post with a hook, short body, call to action and hashtags.",
+  "description_fa": "نوشتن پست اینستاگرام، تلگرام یا لینکدین با قلاب آغاز، متن کوتاه، دعوت به اقدام و هشتگ مناسب",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "marketing",
+    "writing"
+  ],
+  "tags": [
+    "اینستاگرام",
+    "تلگرام",
+    "لینکدین",
+    "کپشن",
+    "محتوا"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

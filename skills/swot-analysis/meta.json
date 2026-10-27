@@ -1,0 +1,26 @@
+{
+  "id": "swot-analysis",
+  "title": "SWOT analysis",
+  "title_fa": "تحلیل SWOT",
+  "description": "SWOT analysis of a business, product or decision, with conclusions and prioritized actions.",
+  "description_fa": "تحلیل نقاط قوت، ضعف، فرصت و تهدید برای یک کسب‌وکار، محصول یا تصمیم، با نتیجه‌گیری و اولویت اقدام",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "business",
+    "planning"
+  ],
+  "tags": [
+    "swot",
+    "تحلیل",
+    "راهبرد",
+    "کسب‌وکار"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}

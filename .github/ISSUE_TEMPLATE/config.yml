@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "گفت‌وگو و پرسش / Questions"
+    url: https://github.com/netarz/gisoo-skills-registry/discussions
+    about: "پرسش و گفت‌وگو در Discussions / Questions and ideas go to Discussions"

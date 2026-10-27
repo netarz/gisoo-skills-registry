@@ -1,0 +1,26 @@
+{
+  "id": "long-doc-summary",
+  "title": "Long document summary",
+  "title_fa": "خلاصهٔ سند بلند",
+  "description": "Layered summary of a long report, article or file: main points, numbers and actions.",
+  "description_fa": "خلاصهٔ لایه‌لایه از گزارش، مقاله، کتاب یا فایل بلند؛ نکته‌های اصلی، عددها و اقدام‌ها",
+  "publisher": {
+    "name": "NetArz",
+    "url": "https://gisoo.pro"
+  },
+  "categories": [
+    "productivity",
+    "writing"
+  ],
+  "tags": [
+    "خلاصه",
+    "سند",
+    "گزارش",
+    "مقاله"
+  ],
+  "language": "fa",
+  "version": "1.0.0",
+  "license": "MIT",
+  "verified": true,
+  "added_at": "2026-10-27"
+}
